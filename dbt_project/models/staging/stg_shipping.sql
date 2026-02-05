@@ -1,0 +1,1 @@
+select * from staging.shipping_clean

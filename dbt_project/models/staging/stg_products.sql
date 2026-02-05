@@ -1,0 +1,1 @@
+select * from staging.products_clean

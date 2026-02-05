@@ -1,0 +1,12 @@
+retailpulse_dbt:
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      host: localhost
+      user: retailpulse
+      password: retailpulse
+      port: 5432
+      dbname: retailpulse
+      schema: mart
+      threads: 1

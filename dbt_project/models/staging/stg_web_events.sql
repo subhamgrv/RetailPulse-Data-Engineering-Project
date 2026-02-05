@@ -1,0 +1,1 @@
+select * from staging.web_events_clean

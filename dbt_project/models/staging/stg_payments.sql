@@ -1,0 +1,1 @@
+select * from staging.payments_clean
